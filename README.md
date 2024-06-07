@@ -2,8 +2,8 @@ Project Setup Instructions
 
 1.Clone the Repository
 
-git clone <repository-url>
-cd therapy-app
+>>>git clone <repository-url>
+>>>cd therapy-app
 
 2.Open in Android Studio
 
